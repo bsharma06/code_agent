@@ -4,3 +4,5 @@
 # Environemnt file
 .env
 
+# Cache
+__pycache__
